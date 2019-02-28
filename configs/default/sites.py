@@ -37,13 +37,13 @@ ALIPAY_TRADE_INFO = "谜之屋的{}元充值码"
 ALIPAY_CALLBACK_URL = f'{HOST}/api/callback/alipay'
 
 # 网站title
-TITLE = "谜之屋"
-SUBTITLE = "秘密的小屋test"
+TITLE = "鸡霸天下"
+SUBTITLE = "天霸动霸tua鸡霸"
 
 # 用户邀请返利比例
-INVITE_PERCENT = 0.2
+INVITE_PERCENT = 0.15
 # 用户能生成的邀请码数量
-INVITE_NUM = 5
+INVITE_NUM = 10
 
 # 网站邀请界面提示语
 INVITEINFO = "邀请码实时更新，如果用完了请关注公众号findyourownway获取"

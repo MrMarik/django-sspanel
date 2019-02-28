@@ -1,5 +1,5 @@
 # 是否开启邮件功能
-USE_SMTP = True
+USE_SMTP = False
 
 # 是否开启ssl/tls
 EMAIL_USE_TLS = False

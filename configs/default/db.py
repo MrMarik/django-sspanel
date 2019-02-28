@@ -4,7 +4,7 @@ DATABASES = {
         "ENGINE": "django_prometheus.db.backends.mysql",
         "NAME": "sspanel",
         "USER": "root",
-        "PASSWORD": "",
+        "PASSWORD": "Aa8180185",
         "HOST": "127.0.0.1",  # 正常版本使用
         # 'HOST': 'db',       # docker版本使用
         "PORT": "3306",
